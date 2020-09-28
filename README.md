@@ -1,5 +1,5 @@
 ![data science 101](https://i.imgur.com/oX4hSbk.jpg)
-
+It contains top 1000+ programming problems frequently asked Tech Giants with detailed worked-out solutions both ịn JavaScript, C/C++, Python and so on.
 # Coding Interview Questions
 
 Coding interview questions - with answers. The answers are given by the community. Please create a PR (pull request) in the following cases.
@@ -8,6 +8,8 @@ Coding interview questions - with answers. The answers are given by the communit
 * If you see a mistake
 
 ## Algorithms and Data Structures
+Most of the time, the interviewer will ask you the running time of your program meaning the big O complexity, which is the worst-case analysis of the running time.
+
 
 ## Questions by Programming Language
 
