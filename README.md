@@ -11,6 +11,9 @@ Coding interview questions - with answers. The answers are given by the communit
 ## Algorithms and Data Structures
 Most of the time, the interviewer will ask you the running time of your program meaning the big O complexity, which is the worst-case analysis of the running time.
 
+## High-Quality Code
+
+## Design Pattern
 
 ## Questions by Programming Language
 
